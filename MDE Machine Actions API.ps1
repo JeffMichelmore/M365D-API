@@ -3,6 +3,7 @@
 
 # Author: Jeff Michelmore
 # Connect: https://www.linkedin.com/in/jeffrey-michelmore/
+# Blog: https://securityoccupied.com/
 
 # Objective:
 # Script can perform several machine-related actions on devices onboarded to MDE 
