@@ -1,0 +1,2 @@
+indicatorValue,indicatorType,application,action,expirationTime,severity,title,description,recommendedActions,generateAlert,rbacGroupNames
+881c0f10c75e64ec39d257a131fcd531f47dd2cff2070ae94baa347d375126fd,FileSha256,Test,Audit,null,Informational,Testing the API,Test IOC from API public docs,Nothing,TRUE,
